@@ -20,6 +20,8 @@ Potentially displays comments associated with the post (implementation details d
 > A strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 * [Redux Toolkit](https://redux-toolkit.js.org/)
 > A predictable state management pattern for JavaScript applications, inspired by functional programming principles.
+* [shopify/flash-list](https://shopify.github.io/flash-list/)
+> A performant React Native list component.
 * [react-native-fast-imag](https://github.com/DylanVann/react-native-fast-image)
 > Performant React Native image component.
 ---
