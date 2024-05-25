@@ -25,9 +25,7 @@ Potentially displays comments associated with the post (implementation details d
 ---
 
 ## Project Screen Shots
-![Simulator Screenshot - iPhone 15 - 2024-05-25 at 12 40 38](https://github.com/HamdyOmran/BreadfastAssessment/assets/71322860/aecca34c-f4d4-4d15-9610-add7fe036fb7)
-
-![Simulator Screenshot - iPhone 15 - 2024-05-25 at 12 40 28](https://github.com/HamdyOmran/BreadfastAssessment/assets/71322860/7285ff8f-8eca-4d02-aae7-ee6e07f8378a)
-
-![Simulator Screenshot - iPhone 15 - 2024-05-25 at 12 40 31](https://github.com/HamdyOmran/BreadfastAssessment/assets/71322860/097842bc-af03-4897-b1e9-3120fc938c28)
+<img src="https://github.com/HamdyOmran/BreadfastAssessment/assets/71322860/aecca34c-f4d4-4d15-9610-add7fe036fb7" width="330">
+<img src="https://github.com/HamdyOmran/BreadfastAssessment/assets/71322860/7285ff8f-8eca-4d02-aae7-ee6e07f8378a" width="330">
+<img src="https://github.com/HamdyOmran/BreadfastAssessment/assets/71322860/097842bc-af03-4897-b1e9-3120fc938c28" width="330">
 
